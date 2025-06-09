@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/StarDev-Solutions/MovieStarFrontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/StarDev-Solutions/MovieStarBackend.git
